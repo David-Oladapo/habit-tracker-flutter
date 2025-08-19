@@ -1,9 +1,3 @@
-# habit_tracker
-
-A Habit Tracker Flutter project.
-
-## Getting Started
-
 # Habit Tracker
 
 A simple and fun **Flutter** app to help you track your daily habits and build streaks over time. Keep tabs on your routines, mark them as done, edit, or delete habits, and watch your progress grow!
